@@ -31,10 +31,10 @@ Prerequisites
 * Cloning
 # In your terminal:
 
-  $ git clone https://github.com/marynganga/Password-Locker/
+  $ git clone 
   $ cd Password-Locker
 Running the Application
-To run the application, in your terminal:
+## To run the application, in your terminal:
 
   $ chmod +x password_locker.py
   $ ./password_locker.py
