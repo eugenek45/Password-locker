@@ -23,10 +23,10 @@ Prerequisites
 
 # In your terminal:
 
-  $ git clone 
-  $ cd Password-Locker
-Running the Application
-## To run the application, in your terminal:
+  * $ git clone 
+  * $ cd Password-Locker
+## Running the Application
+To run the application, in your terminal:
 
   $ chmod +x password_locker.py
   $ ./password_locker.py
