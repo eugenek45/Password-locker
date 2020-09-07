@@ -45,4 +45,4 @@ To run the tests for the class file:
 ### Technologies Used
 * Python3.6
 * License
-#### MIT ©2017 Mary Ng'ang'a
+#### MIT ©2020 Eugene Kiprotich
