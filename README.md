@@ -38,7 +38,7 @@ Running the Application
 
   $ chmod +x password_locker.py
   $ ./password_locker.py
-Testing the Application
+## Testing the Application
 To run the tests for the class file:
 
   $ python3.6 user_credentials_test.py
